@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Non_Int_Obj
+  - Player_Attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Non_Int_Obj
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backdrop
+    uniqueID: 954265067
+    locked: 0
+  - name: Background
+    uniqueID: 581866505
+    locked: 0
+  - name: Background Effects
+    uniqueID: 1879094867
+    locked: 0
+  - name: Main
+    uniqueID: 364600589
+    locked: 0
+  - name: Ground
+    uniqueID: 3752482983
+    locked: 0
+  - name: Player
+    uniqueID: 2888290077
+    locked: 0
+  - name: Interactable Item 1
+    uniqueID: 2341888581
+    locked: 0
+  - name: Foreground
+    uniqueID: 3434898861
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 1115476539
+    locked: 0
+  - name: Foreground Effects
+    uniqueID: 1534940651
+    locked: 0
