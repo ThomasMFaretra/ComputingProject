@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Non_Int_Obj
   - Player_Attack
+  - StartLine
+  - FinishLine
   layers:
   - Default
   - TransparentFX
@@ -73,4 +75,7 @@ TagManager:
     locked: 0
   - name: Foreground Effects
     uniqueID: 1534940651
+    locked: 0
+  - name: UI
+    uniqueID: 89934447
     locked: 0
