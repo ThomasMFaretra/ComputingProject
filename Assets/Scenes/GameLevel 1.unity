@@ -1223,6 +1223,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1966940442489625191, guid: 279d05aa845240642ac6ff84cc9b114b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966940442489625203, guid: 279d05aa845240642ac6ff84cc9b114b,
+        type: 3}
+      propertyPath: ID
+      value: 1608
+      objectReference: {fileID: 0}
     - target: {fileID: 1966940442489625203, guid: 279d05aa845240642ac6ff84cc9b114b,
         type: 3}
       propertyPath: text
